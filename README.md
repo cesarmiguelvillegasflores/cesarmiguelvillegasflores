@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./boliviainteligente-37WxvlfW3to-unsplash.jpg" alt="Banner de Cesar" width="100%" />
+  <img src="./banner-cesar.jpeg" alt="Banner de Cesar" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Cesar!</h1>
