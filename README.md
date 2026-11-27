@@ -36,5 +36,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cesarmiguelvillegasflores&theme=kanagawa-paper&hide_border=true&border_radius=11.1&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cesarmiguelvillegasflores&theme=kanagawa-paper&hide_border=true&border_radius=11.1&short_numbers=true" alt="GitHub Streak" width="100%" /></a>
 </p>
